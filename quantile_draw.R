@@ -106,8 +106,6 @@
 # }
 
 
-#This the Chatgpt modified code I think it's working
-
 quantile_draw <- function(YR, ncolY, aux_quantiles, aux_infos, err = 0, n_generated = 1) {
   
   # Initialize a list to store generated quantiles for each column
